@@ -1,0 +1,8 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Except Ignore Gradle Wrapper
+!gradle/wrapper/*
+
+# Ignore Gradle build output directory
+build
