@@ -1,0 +1,15 @@
+# IntellJ files
+.idea
+
+# SAM files
+.aws-sam
+samconfig.toml
+
+# Gradle files
+.gradle
+
+# Build files
+build
+
+# Except Ignore Gradle Wrapper
+!**/gradle/wrapper/*
